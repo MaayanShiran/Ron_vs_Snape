@@ -1,4 +1,4 @@
-# Ron_vs_McGonagall
+# Ron_vs_Snape
 
 Excercise no.1:
 
