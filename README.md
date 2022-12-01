@@ -1,8 +1,8 @@
 # Ron_vs_Snape
 
-Excercise no.1:
+__Excercise no.1:__
 
-#Three-lane road<br />
+#Three-lane road <br />
 #Player that can move left and right<br />
 #Obstacles on the road<br />
 #Obstacles come at a constant speed on the road (obstacles comes towards player)<br />
